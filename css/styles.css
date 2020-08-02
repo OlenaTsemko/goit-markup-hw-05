@@ -194,7 +194,7 @@ img {
   position: relative;
   /* padding-bottom: 0px; */
 
-  /* color: var(--accent-color); */
+  color: var(--accent-color);
 }
 .navigation-list-item-link.current::after {
   content: '';
